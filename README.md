@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ali13475
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning front-End
+- 🌱 I’m Full Stack Developer
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me alishenoo@gmail.com
 
